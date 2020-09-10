@@ -1,5 +1,5 @@
 {
-    "videos": { "Topsongs" : [ 
+    "Topsongs" : [ 
             { "Name"  : "Anugraheethan Antony", "url" : "https://youtu.be/FLz9hCjELWk?list=PL_rXc1ssylNfCixoprmoQAvfx_K6IK86w" },
             { "Name"  : "Vathikkalu Vellaripravu ", "url" : "https://youtu.be/H1UdC4ejBFs?list=PL_rXc1ssylNfCixoprmoQAvfx_K6IK86w"},
             { "Name"  : "Nee Himamazhayayi", "url" : "https://youtu.be/nKEVIuya2kY"}],  
@@ -7,5 +7,5 @@
             "Fluttertutorials"  : [
                { "Name"  : "Flutter Tutorial for Beginners", "url" : "https://youtu.be/1ukSR1GRtMU?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ" }, 
                { "Name"  : "Top 10 Must Know Widgets", "url" : "https://youtu.be/x1LHDKLDT38"}]    
-         }  
+         
 }
