@@ -1,6 +1,9 @@
-Main_categories[
-      {"id":1 ,"title":"Body Changes","Image":"https://img.pngio.com/pregnant-woman-png-transparent-pregnant-woman-png-transparent-pregnant-woman-png-920_899.png"},
+{"Main_categories":[
+    {"id":1 ,"title":"Body Changes","Image":"https://img.pngio.com/pregnant-woman-png-transparent-pregnant-woman-png-transparent-pregnant-woman-png-920_899.png"},
       {"id":2,"title":"Mental Changes","Image":"https://cdn.cdnparenting.com/articles/2018/02/211472944-H.jpg"},
       {"id":3 ,"title":"Food/Diet","Image":"https://cdn2.momjunction.com/wp-content/uploads/2014/12/Vitamin-A-Rich-Foods-1.jpg"},
       {"id":4 ,"title":"Exercises","Image":"https://rotundaprivate.ie/wp-content/uploads/2017/12/shutterstock_190732799-e1512823308914.jpg"},
-      {"id":5 ,"title":"Checkups/Tests","Image":"https://post.healthline.com/wp-content/uploads/2019/10/pregnancy-second-trimester-checkups-tests_thumb.jpg"}];
+      {"id":5 ,"title":"Checkups/Tests","Image":"https://post.healthline.com/wp-content/uploads/2019/10/pregnancy-second-trimester-checkups-tests_thumb.jpg"}
+    ]
+    
+}
