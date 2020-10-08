@@ -3,7 +3,7 @@
         "id" :"1",
         "name":"Pregnancy Fun Facts",
         "videos": [
-            { "Title"  : "Women React To Pregnancy Facts", "url" : "https://www.youtube.com/watch?v=WFDkb3ZuJTY1" },
+            { "Title"  : "Women React To Pregnancy Facts", "url" : "https://www.youtube.com/watch?v=WFDkb3ZuJTY" },
             { "Title"  : "I Am Pregnant! Funny Pregnancy Situations!", "url" : "https://www.youtube.com/watch?v=2HEmCZIe5JU"},
             { "Title"  : "Men React To Pregnancy Facts", "url" : "https://www.youtube.com/watch?v=XNosUEzteac"},
             {"Title": "17 FUNNY THINGS NO ONE TELL YOU ABOUT PREGNANCY","url": "https://www.youtube.com/watch?v=J8r7e5lH-y8"},
@@ -16,7 +16,7 @@
         "id" :"2",
         "name":"What to Expect in First,Second and Third Trimisters",
         "videos": [
-            {"Title": "What to expect in your First Trimester of pregnancy | Pregnancy Week-by-Week","url": "https://www.yoooutube.com/watch?v=cfn04QUO4B8"},
+            {"Title": "What to expect in your First Trimester of pregnancy | Pregnancy Week-by-Week","url": "https://www.youtube.com/watch?v=cfn04QUO4B8"},
                {"Title": "What to expect in your Second Trimester of pregnancy | Pregnancy Week-by-Week","url": "https://www.youtube.com/watch?v=IPj4dJnP85o"},
                {"Title": "What to expect in your Third Trimester of pregnancy | Pregnancy Week-by-Week","url": "https://www.youtube.com/watch?v=lpDW00nQhUo&t=26s"},
                {"Title": "5 Things Not To Do During The THIRD TRIMESTER | SarahFit","url": "https://www.youtube.com/watch?v=O6R7zaWm20E"}
