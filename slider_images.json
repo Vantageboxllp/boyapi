@@ -2,22 +2,22 @@
   {
 "Id":"1",
 "cat_id":"8",
-"Image_url":"https://momsdoctor.com/wp-content/uploads/2020/10/imag1.jpg"
+"Image_url":"http://api.momsdoctor.com/imag1.jpg"
 },
 {
 "Id":"1",
 "cat_id":"9",
-"Image_url":"https://momsdoctor.com/wp-content/uploads/2020/10/imag5.jpg"
+"Image_url":"http://api.momsdoctor.com/.jpg"
 },
 {
 "Id":"2",
 "cat_id":"4",
-"Image_url":"https://momsdoctor.com/wp-content/uploads/2020/10/pic2.jpg"
+"Image_url":"http://api.momsdoctor.com/pic2.png"
 },
 {
 "Id":"3",
 "cat_id":"7",
-"Image_url":"http://momsdoctor.com/wp-content/uploads/2020/10/imag6.jpg"
+"Image_url":"http://api.momsdoctor.com/imag6.jpg"
 }
 
 ]
