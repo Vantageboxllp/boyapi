@@ -58,6 +58,19 @@
                 {"Title": "PREGNANT BELLY GROWTH | 7 - 40 WEEKS TRANSFORMATION | SECOND PREGNANCY","url": "https://www.youtube.com/watch?v=MQj3N-It9Ys"}
         ]
     },
+     {
+        "id" :"5",
+        "name":"Hacks & Exercises",
+        "videos": [
+            
+            {"Title": "15 Pregnancy Situations Every Woman Can Relate To / Pregnancy Hacks","url": "https://www.youtube.com/watch?v=lhvIEW0KAg4"},
+            {"Title": "22 Pregnancy Hacks Every Pregnant Woman Should Know | Nausea, Swollen Feet, Hip Pain","url": "https://www.youtube.com/watch?v=yNLnlsrqB6Q"},
+            {"Title": "The surprising effects of pregnancy","url": "https://www.youtube.com/watch?v=F_ssj7-8rYg"},
+            {"Title": "10 Exercise to Ease Normal Delivery","url": "https://www.youtube.com/watch?v=Eq4uMHzdaI8"},
+            {"Title": "Preventing Back and Pelvic Pain in Pregnancy","url": "https://www.youtube.com/watch?v=RreRkLfDymQ"},
+            {"Title": "7 Best Exercises to Reduce Pelvic Pain during Pregnancy","url": "https://www.youtube.com/watch?v=h_Ytw1kX4XE"}       
+        ]
+    },
     {
         "id" :"1",
         "name":"Pregnancy Fun Facts",
@@ -95,19 +108,7 @@
 
     
 
-    {
-        "id" :"5",
-        "name":"Hacks & Exercises",
-        "videos": [
-            
-            {"Title": "15 Pregnancy Situations Every Woman Can Relate To / Pregnancy Hacks","url": "https://www.youtube.com/watch?v=lhvIEW0KAg4"},
-            {"Title": "22 Pregnancy Hacks Every Pregnant Woman Should Know | Nausea, Swollen Feet, Hip Pain","url": "https://www.youtube.com/watch?v=yNLnlsrqB6Q"},
-            {"Title": "The surprising effects of pregnancy","url": "https://www.youtube.com/watch?v=F_ssj7-8rYg"},
-            {"Title": "10 Exercise to Ease Normal Delivery","url": "https://www.youtube.com/watch?v=Eq4uMHzdaI8"},
-            {"Title": "Preventing Back and Pelvic Pain in Pregnancy","url": "https://www.youtube.com/watch?v=RreRkLfDymQ"},
-            {"Title": "7 Best Exercises to Reduce Pelvic Pain during Pregnancy","url": "https://www.youtube.com/watch?v=h_Ytw1kX4XE"}       
-        ]
-    },
+   
     {
         "id" :"6",
         "name":"Development of your Baby",
